@@ -8,7 +8,7 @@ Ahoy, matey! Step into the boots of a crusty old pirate on a 2D side-scrolling q
 
 Whether you’re platforming through caves or hopping over perilous waters, this pixel-art pirate adventure promises classic gameplay with salty flair.
 
-🗺️ Built with [your engine/framework].
+🗺️ Built with Unreal Engine and C++.
 🎮 Keyboard controls supported.
 ⚓ More features coming soon!
 
